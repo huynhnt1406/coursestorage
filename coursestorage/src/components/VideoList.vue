@@ -30,7 +30,5 @@ export default {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 470px;
-    overflow-y: scroll;
 }
 </style>
