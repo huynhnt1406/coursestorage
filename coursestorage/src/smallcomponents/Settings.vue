@@ -12,8 +12,8 @@ export default {
 
 <style>
 .videolist{
-    margin-left:8vh;
-    margin-right: 8vh;
+    margin-left:4vh;
+    margin-right: 4vh;
 }
 .videolist h1{
     color:white;

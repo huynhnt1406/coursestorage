@@ -37,6 +37,8 @@ export default {
 .sidebar{
     flex:0.2;
     background-color:#F5A028;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
 }
 .sidebar-header{
     display: flex;

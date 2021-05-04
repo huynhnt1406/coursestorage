@@ -27,13 +27,22 @@ export default {
 }
 .container{
   background-color:#2C2C2C;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
 }
+.sidebar{
+  height: 100vh;
+}
 .main{
+  overflow-y: scroll;
+  height: 90vh;
   flex:0.8;
+  margin:5vh;
   background-color:#484848;
-  margin:30px;
   border-radius: 50px;
+  padding:5vh;
+}
+.main::-webkit-scrollbar {
+  display: none;
 }
 </style>

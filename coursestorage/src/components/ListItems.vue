@@ -34,10 +34,10 @@ export default {
 
 <style>
 .listitems img{
-    height: 225px;
+    height: 260px;
     width:420px;
-    margin: 5px;
     opacity: 0.8;
+    margin:5px;
     border-radius: 30px;
     box-shadow: 0 2px 2px rgba(0,0,0,.5);
 }

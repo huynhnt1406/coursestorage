@@ -19,7 +19,7 @@ export default {
 
 <style>
 .searchbar{
-    padding:5vh 8vh 5vh 8vh;
+    padding:2vh 4vh 2vh 4vh;
     display: flex;
     justify-content: space-between;
     align-items: center;

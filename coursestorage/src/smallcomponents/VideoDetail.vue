@@ -2,7 +2,7 @@
     <div class="video-detail">
         <div class="video-actions">
             <div class="video-left">
-                <iframe height="370px" width="100%" :src="videodata.videoLink" frameborder="0"></iframe>
+                <iframe height="90%" width="100%" :src="videodata.videoLink" frameborder="0"></iframe>
                 <div class="video-stats">
                     <div class="stats-left">
                         <img :src="videodata.avatarUrl" alt="videodata.name">
@@ -110,11 +110,11 @@ export default {
 
 }
 .video-subtitle h3{
-    margin-top: 2vh;
+    margin-top: 4vh;
     color:white;
 }
 .video-right{
-    height: 370px;
+    height: 600px;
     flex:0.3;
     margin-left:10px;
     border-radius: 40px;
